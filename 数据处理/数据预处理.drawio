@@ -1,11 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T15:57:27.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="G1HUmEvj1rc7z6KWvVH2" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-23T16:31:50.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="w20lX03Bf4BYLzy1m6zl" version="20.0.3" type="github">
   <diagram id="XN-vh_qt9OSKIHCKWw7f" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sp7w4MqUNdc4_kiB8jiN-1" value="缺失值处理：从信息角度，通过某一维度数据缺失比决定是否丢弃该维度数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="120" width="360" height="60" as="geometry" />
+          <mxGeometry x="190" y="40" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sp7w4MqUNdc4_kiB8jiN-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="390" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="sp7w4MqUNdc4_kiB8jiN-3" value="函数库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sp7w4MqUNdc4_kiB8jiN-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="190" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sp7w4MqUNdc4_kiB8jiN-5" value="python" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sp7w4MqUNdc4_kiB8jiN-6" value="pandas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="250" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
