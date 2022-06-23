@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T17:40:05.400Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="QxqfL0EadjMQypg7dWKe" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-23T17:42:42.259Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Z_bFT3NJpBClWUzY96W7" version="20.0.3" type="github">
   <diagram id="4u6awcFM0ojRuJQNL5Am" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,6 +27,12 @@
         </mxCell>
         <mxCell id="dprMaKXrl9Tvf1hPXRWx-10" value="与csv的交互" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dprMaKXrl9Tvf1hPXRWx-11" value="pd.read_csv(&quot;data.csv&quot;)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="150" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dprMaKXrl9Tvf1hPXRWx-12" value="其他文件的交互类似，返回为DataFrame" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
+          <mxGeometry x="600" y="130" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
